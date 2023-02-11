@@ -56,16 +56,20 @@
 		<meta property="authority" refines="#subject-9">LCSH</meta>
 		<meta property="term" refines="#subject-9">sh2007100752</meta>
 		<meta property="se:subject">Fiction</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<dc:description id="description">A young American woman travelling through Europe excites both admiration and intrigue.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;&lt;i&gt;The Portrait of a Lady&lt;/i&gt; is widely held to be the outstanding work of the first phase of &lt;a href="https://standardebooks.org/ebooks/henry-james"&gt;Henry James’s&lt;/a&gt; “early” period, and among the finest novels of his entire career.&lt;/p&gt;
+			&lt;p&gt;When the eccentric Mrs. Touchett “takes up” her charming American neice, Isabel Archer, and returns with her to England, her husband and son, the invalid Ralph, are first mystified, then bemused. Soon, however, they are smitten, as also is their aristocratic neighbor, Lord Warburton. It is not long until a proposal of marriage comes from the English lord, but Isabel is not so quickly conquered. Besides, she has left a rejected suitor back in Boston, an archetypal American industrial magnate, Caspar Goodwood.&lt;/p&gt;
+			&lt;p&gt;Through a surprising bequest in Mr. Touchett’s will, Isabel becomes a wealthy heiress. As she travels with her aunt through Europe, Isabel encounters several remarkable figures in the American émigré communities in which Mrs. Touchett has her social circles. She also is led towards a third suitor in Florence, and this encounter proves decisive.&lt;/p&gt;
+			&lt;p&gt;The novel took shape as James travelled on the Continent, after having lived in London for some years. That sense of place and displacement suffuses the book, but it remains the backdrop to the main business of the story: the unfolding of relationships around the figure of Isabel Archer. James explains in an illuminating preface how his heroine and her attendant characters took hold of him. His artistic vision was to display Isabel’s character in action, embedded in this web of relations.&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;The Portrait of a Lady&lt;/i&gt; is one of the supreme examples of James’s capacity to display how moral imagination and concrete action emerge in character. But along with this, the novel explores the perception and persistence of love, dissects the psychological gradations between magnanimity and malice, and contrasts the energy and ambition of the new world with the allure and ennui of the old.&lt;/p&gt;
+			&lt;p&gt;Like the Standard Ebook edition of &lt;i&gt;&lt;a href="https://standardebooks.org/ebooks/henry-james/the-ambassadors"&gt;The Ambassadors&lt;/a&gt;&lt;/i&gt;, this ebook follows the New York edition which incorporates the revisions James made to his text in 1908, almost thirty years after he first wrote it.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/2833</dc:source>
 		<dc:source>https://www.gutenberg.org/ebooks/2834</dc:source>
 		<dc:source>https://archive.org/details/novelsandtalesh08unkngoog</dc:source>
 		<dc:source>https://archive.org/details/novelsandtalesh05unkngoog</dc:source>
-		<meta property="se:production-notes">PRODUCTION_NOTES</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Portrait_of_a_Lady</meta>
@@ -76,10 +80,10 @@
 		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n78091982</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<meta property="se:role" refines="#author" scheme="marc:relators">wpr</meta>
-		<dc:contributor id="artist">COVER_ARTIST</dc:contributor>
-		<meta property="file-as" refines="#artist">COVER_ARTIST_SORT</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">COVER_ARTIST_WIKI_URL</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">COVER_ARTIST_NACOAF_URI</meta>
+		<dc:contributor id="artist">John Singer Sargent</dc:contributor>
+		<meta property="file-as" refines="#artist">Sargent, John Singer</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/John_Singer_Sargent</meta>
+		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/n50019335</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">Eve Sobol</dc:contributor>
 		<meta property="file-as" refines="#transcriber-1">Sobol, Eve</meta>
