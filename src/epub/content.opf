@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/henry-james/the-portrait-of-a-lady</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2023-02-14T22:51:10Z</dc:date>
+		<meta property="dcterms:modified">2023-02-14T22:51:10Z</meta>
 		<dc:rights>The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -63,15 +63,15 @@
 			&lt;p&gt;Through a surprising bequest in Mr. Touchett’s will, Isabel becomes a wealthy heiress. As she travels with her aunt through Europe, Isabel encounters several remarkable figures in the American émigré communities in which Mrs. Touchett has her social circles. She also is led towards a third suitor in Florence, and this encounter proves decisive.&lt;/p&gt;
 			&lt;p&gt;The novel took shape as James travelled on the Continent, after having lived in London for some years. That sense of place and displacement suffuses the book, but it remains the backdrop to the main business of the story: the unfolding of relationships around the figure of Isabel Archer. James explains in an illuminating preface how his heroine and her attendant characters took hold of him. His artistic vision was to display Isabel’s character in action, embedded in this web of relations.&lt;/p&gt;
 			&lt;p&gt;&lt;i&gt;The Portrait of a Lady&lt;/i&gt; is one of the supreme examples of James’s capacity to display how moral imagination and concrete action emerge in character. But along with this, the novel explores the perception and persistence of love, dissects the psychological gradations between magnanimity and malice, and contrasts the energy and ambition of the new world with the allure and ennui of the old.&lt;/p&gt;
-			&lt;p&gt;Like the Standard Ebook edition of &lt;i&gt;&lt;a href="https://standardebooks.org/ebooks/henry-james/the-ambassadors"&gt;The Ambassadors&lt;/a&gt;&lt;/i&gt;, this ebook follows the New York edition which incorporates the revisions James made to his text in 1908, almost thirty years after he first wrote it.&lt;/p&gt;
+			&lt;p&gt;This Standard Ebooks edition follows the New York edition, which incorporates the revisions James made to his text in 1908, almost thirty years after he first wrote it.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/2833</dc:source>
 		<dc:source>https://www.gutenberg.org/ebooks/2834</dc:source>
 		<dc:source>https://archive.org/details/novelsandtalesh08unkngoog</dc:source>
 		<dc:source>https://archive.org/details/novelsandtalesh05unkngoog</dc:source>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">238846</meta>
+		<meta property="se:reading-ease.flesch">72.26</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Portrait_of_a_Lady</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/henry-james_the-portrait-of-a-lady</meta>
 		<dc:creator id="author">Henry James</dc:creator>
@@ -102,6 +102,10 @@
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">mrk</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+		<dc:contributor id="producer-2">Weijia Cheng</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Cheng, Weijia</meta>
+		<meta property="se:url.homepage" refines="#producer-2">https://weijiarhymeswith.asia</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="css/core.css" id="core.css" media-type="text/css"/>
