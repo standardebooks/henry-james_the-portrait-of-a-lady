@@ -71,7 +71,7 @@
 		<dc:source>https://archive.org/details/novelsandtalesh08unkngoog</dc:source>
 		<dc:source>https://archive.org/details/novelsandtalesh05unkngoog</dc:source>
 		<meta property="se:word-count">238846</meta>
-		<meta property="se:reading-ease.flesch">72.26</meta>
+		<meta property="se:reading-ease.flesch">72.36</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Portrait_of_a_Lady</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/henry-james_the-portrait-of-a-lady</meta>
 		<dc:creator id="author">Henry James</dc:creator>
