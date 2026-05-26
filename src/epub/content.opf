@@ -62,6 +62,9 @@
 		<meta id="collection-2" property="belongs-to-collection">The Guardian’s 100 Best Novels of All Time (2026)</meta>
 		<meta property="collection-type" refines="#collection-2">set</meta>
 		<meta property="group-position" refines="#collection-2">21</meta>
+		<meta id="collection-3" property="belongs-to-collection">The Guardian’s 100 Greatest Novels of All Time (2003)</meta>
+		<meta property="collection-type" refines="#collection-3">set</meta>
+		<meta property="group-position" refines="#collection-3">30</meta>
 		<dc:description id="description">A young American woman travelling through Europe excites both admiration and intrigue.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;&lt;i&gt;The Portrait of a Lady&lt;/i&gt; is widely held to be the outstanding work of &lt;a href="https://standardebooks.org/ebooks/henry-james"&gt;Henry James’s&lt;/a&gt; “early” period, and among the finest novels of his entire career.&lt;/p&gt;
