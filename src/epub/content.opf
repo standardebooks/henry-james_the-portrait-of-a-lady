@@ -66,7 +66,7 @@
 		<meta id="collection-3" property="belongs-to-collection">The Guardian’s 100 Greatest Novels of All Time (2003)</meta>
 		<meta property="collection-type" refines="#collection-3">set</meta>
 		<meta property="group-position" refines="#collection-3">30</meta>
-		<dc:abstract>A young American woman travelling through Europe excites both admiration and intrigue.</dc:abstract>
+		<meta property="schema:abstract">A young American woman travelling through Europe excites both admiration and intrigue.</meta>
 		<dc:description>
 			&lt;p&gt;&lt;i&gt;The Portrait of a Lady&lt;/i&gt; is widely held to be the outstanding work of &lt;a href="https://standardebooks.org/ebooks/henry-james"&gt;Henry James’s&lt;/a&gt; “early” period, and among the finest novels of his entire career.&lt;/p&gt;
 			&lt;p&gt;When the eccentric Mrs. Touchett “takes up” her charming American niece, Isabel Archer, and returns with her to England, her husband and son, the invalid Ralph, are first mystified, then bemused. Soon, however, they are smitten, as also is their aristocratic neighbor, Lord Warburton. It is not long until a proposal of marriage comes from the English lord, but Isabel is not so quickly conquered. Besides, she has left a rejected suitor back in Boston, an archetypal American industrial magnate, Caspar Goodwood.&lt;/p&gt;
