@@ -30,15 +30,15 @@
 		<meta property="schema:accessibilitySummary">This publication conforms to WCAG 2.2 Level AA.</meta>
 		<dc:title id="title">The Portrait of a Lady</dc:title>
 		<meta property="file-as" refines="#title">Portrait of a Lady, The</meta>
-		<dc:subject id="subject-1">Inheritance and succession -- Fiction</dc:subject>
+		<dc:subject id="subject-1">Inheritance and succession--Fiction</dc:subject>
 		<dc:subject id="subject-2">Psychological fiction</dc:subject>
 		<dc:subject id="subject-3">Love stories</dc:subject>
-		<dc:subject id="subject-4">Fathers and daughters -- Fiction</dc:subject>
-		<dc:subject id="subject-5">Married women -- Fiction</dc:subject>
-		<dc:subject id="subject-6">Triangles (Interpersonal relations) -- Fiction</dc:subject>
-		<dc:subject id="subject-7">Italy -- Fiction</dc:subject>
-		<dc:subject id="subject-8">Archer, Isabel (Fictitious character) -- Fiction</dc:subject>
-		<dc:subject id="subject-9">Americans -- Italy -- Fiction</dc:subject>
+		<dc:subject id="subject-4">Fathers and daughters--Fiction</dc:subject>
+		<dc:subject id="subject-5">Married women--Fiction</dc:subject>
+		<dc:subject id="subject-6">Triangles (Interpersonal relations)--Fiction</dc:subject>
+		<dc:subject id="subject-7">Italy--Fiction</dc:subject>
+		<dc:subject id="subject-8">Archer, Isabel (Fictitious character)--Fiction</dc:subject>
+		<dc:subject id="subject-9">Americans--Italy--Fiction</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">sh2008104235</meta>
 		<meta property="authority" refines="#subject-2">LCSH</meta>
